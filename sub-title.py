@@ -36,7 +36,7 @@ try:
     # Load Whisper model
     print("\nLoading Whisper AI model...")
     print("   (First time may take a while to download the model)")
-    model = whisper.load_model("turbo")
+    model = whisper.load_model("large-v3")
     print("Model loaded successfully!")
     
     # Transcribe audio
