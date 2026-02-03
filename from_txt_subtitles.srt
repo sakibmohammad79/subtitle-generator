@@ -1,112 +1,80 @@
 1
-00:00:00,000 --> 00:00:05,000
-In the name of Allah, the Most Gracious, the Most Merciful.
+00:00:00,990 --> 00:00:15,240
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 2
-00:00:05,500 --> 00:00:10,000
-O you wrapped in garments (Prophet Muhammad)!
+00:00:15,660 --> 00:00:21,719
+إِذَا السَّمَاءُ انفَطَرَتْ
 
 3
-00:00:10,500 --> 00:00:16,000
-Stand (to pray) all night, except a little—
+00:00:22,739 --> 00:00:27,410
+وَإِذَا الْكَوَاكِبُ انتَثَرَتْ
 
 4
-00:00:16,500 --> 00:00:22,000
-Half of it, or a little less than that,
+00:00:27,890 --> 00:00:31,850
+وَإِذَا الْبِحَارُ فُجِّرَتْ
 
 5
-00:00:22,500 --> 00:00:29,000
-Or a little more. And recite the Quran with measured recitation.
+00:00:32,560 --> 00:00:36,200
+وَإِذَا الْقُبُورُ بُعْثِرَتْ
 
 6
-00:00:29,500 --> 00:00:35,500
-Verily, We shall send down to you a weighty Word.
+00:00:37,000 --> 00:00:41,950
+عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ
 
 7
-00:00:36,000 --> 00:00:44,000
-Indeed, the hours of the night are more effective for worship and more upright in speech.
+00:00:44,979 --> 00:00:54,899
+يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
 
 8
-00:00:44,500 --> 00:00:51,000
-For you by day is prolonged occupation.
+00:00:55,340 --> 00:01:00,939
+الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
 
 9
-00:00:51,500 --> 00:00:58,500
-And remember the name of your Lord and devote yourself to Him with complete devotion.
+00:01:02,460 --> 00:01:08,769
+فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ
 
 10
-00:00:59,000 --> 00:01:06,000
-Lord of the East and the West; there is no deity except Him, so take Him as Disposer of affairs.
+00:01:10,480 --> 00:01:14,969
+كَلَّا بَلْ تُكَذِّبُونَن بِالدِّينِ
 
 11
-00:01:07,000 --> 00:01:14,000
-And be patient over what they say and avoid them with gracious avoidance.
+00:01:16,640 --> 00:01:21,969
+وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
 
 12
-00:01:14,500 --> 00:01:23,000
-And leave Me with the deniers, the possessors of ease [in life], and allow them respite a little.
+00:01:22,469 --> 00:01:28,290
+كِرَامًا كَاتِبِينَ
 
 13
-00:01:24,000 --> 00:01:30,000
-Indeed, with Us are shackles and burning fire,
+00:01:29,700 --> 00:01:34,209
+يَعْلَمُونَ مَا تَفْعَلُونَ
 
 14
-00:01:30,500 --> 00:01:36,000
-And food that chokes and a painful punishment—
+00:01:36,439 --> 00:01:41,549
+إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
 
 15
-00:01:36,500 --> 00:01:46,000
-On the Day the earth and the mountains will quake and the mountains will become a heap of sand flowing down.
+00:01:43,099 --> 00:01:49,670
+وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
 
 16
-00:01:46,500 --> 00:01:56,000
-Indeed, We have sent to you a Messenger as a witness upon you, as We sent to Pharaoh a messenger.
+00:01:51,549 --> 00:01:54,670
+يَصْلَوْنَهَا يَوْمَ الدِّينِ
 
 17
-00:01:56,500 --> 00:02:04,000
-But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.
+00:01:55,549 --> 00:01:59,909
+وَمَا هُمْ عَنْهَا بِغَائِبِينَ
 
 18
-00:02:04,500 --> 00:02:14,000
-Then how can you fear, if you disbelieve, a Day that will make the children white-haired?
+00:02:04,180 --> 00:02:07,769
+وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
 19
-00:02:14,500 --> 00:02:23,000
-The heaven will break apart therefrom; ever is His promise fulfilled.
+00:02:09,599 --> 00:02:17,189
+ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
 
 20
-00:02:23,500 --> 00:02:32,000
-Indeed, this is a reminder; so whoever wills may take to his Lord a way.
-
-21
-00:02:33,000 --> 00:02:48,000
-Indeed, your Lord knows that you stand in prayer almost two-thirds of the night or half of it or a third of it,
-
-22
-00:02:49,000 --> 00:02:58,000
-And a group of those with you. And Allah determines the night and the day.
-
-23
-00:02:59,000 --> 00:03:08,000
-He knows that you will not be able to continue it and has turned to you in forgiveness,
-
-24
-00:03:09,000 --> 00:03:15,000
-So recite what is easy [for you] of the Quran.
-
-25
-00:03:16,000 --> 00:03:25,000
-He knows that there will be among you those who are ill and others traveling through the land,
-
-26
-00:03:26,000 --> 00:03:32,000
-seeking [something] of the bounty of Allah and others fighting for the cause of Allah.
-
-27
-00:03:33,000 --> 00:03:38,000
-So recite what is easy from it and establish prayer and give zakah,
-
-28
-00:03:39,000 --> 00:03:44,000
-And loan Allah a goodly loan. And whatever good you put forward for yourselves, you will find it with Allah.
+00:02:19,110 --> 00:02:30,000
+يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
 

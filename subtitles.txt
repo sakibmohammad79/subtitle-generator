@@ -1,31 +1,24 @@
-# SURAH AL-MUZZAMMIL FULL SUBTITLES (3:44 Duration)
-# Format: start_time | end_time | text
+# Surah Al-Infitar Subtitles
+# Generated using Simple Timing Tool
+# Format: start_time | end_time | Arabic text
 
-0.0 | 5.0 | In the name of Allah, the Most Gracious, the Most Merciful.
-5.5 | 10.0 | O you wrapped in garments (Prophet Muhammad)!
-10.5 | 16.0 | Stand (to pray) all night, except a little—
-16.5 | 22.0 | Half of it, or a little less than that,
-22.5 | 29.0 | Or a little more. And recite the Quran with measured recitation.
-29.5 | 35.5 | Verily, We shall send down to you a weighty Word.
-36.0 | 44.0 | Indeed, the hours of the night are more effective for worship and more upright in speech.
-44.5 | 51.0 | For you by day is prolonged occupation.
-51.5 | 58.5 | And remember the name of your Lord and devote yourself to Him with complete devotion.
-59.0 | 66.0 | Lord of the East and the West; there is no deity except Him, so take Him as Disposer of affairs.
-67.0 | 74.0 | And be patient over what they say and avoid them with gracious avoidance.
-74.5 | 83.0 | And leave Me with the deniers, the possessors of ease [in life], and allow them respite a little.
-84.0 | 90.0 | Indeed, with Us are shackles and burning fire,
-90.5 | 96.0 | And food that chokes and a painful punishment—
-96.5 | 106.0 | On the Day the earth and the mountains will quake and the mountains will become a heap of sand flowing down.
-106.5 | 116.0 | Indeed, We have sent to you a Messenger as a witness upon you, as We sent to Pharaoh a messenger.
-116.5 | 124.0 | But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.
-124.5 | 134.0 | Then how can you fear, if you disbelieve, a Day that will make the children white-haired?
-134.5 | 143.0 | The heaven will break apart therefrom; ever is His promise fulfilled.
-143.5 | 152.0 | Indeed, this is a reminder; so whoever wills may take to his Lord a way.
-153.0 | 168.0 | Indeed, your Lord knows that you stand in prayer almost two-thirds of the night or half of it or a third of it,
-169.0 | 178.0 | And a group of those with you. And Allah determines the night and the day.
-179.0 | 188.0 | He knows that you will not be able to continue it and has turned to you in forgiveness,
-189.0 | 195.0 | So recite what is easy [for you] of the Quran.
-196.0 | 205.0 | He knows that there will be among you those who are ill and others traveling through the land,
-206.0 | 212.0 | seeking [something] of the bounty of Allah and others fighting for the cause of Allah.
-213.0 | 218.0 | So recite what is easy from it and establish prayer and give zakah,
-219.0 | 224.0 | And loan Allah a goodly loan. And whatever good you put forward for yourselves, you will find it with Allah.
+2.99 | 15.24 | بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+15.66 | 21.72 | إِذَا السَّمَاءُ انفَطَرَتْ
+22.74 | 27.41 | وَإِذَا الْكَوَاكِبُ انتَثَرَتْ
+27.89 | 31.85 | وَإِذَا الْبِحَارُ فُجِّرَتْ
+32.56 | 36.2 | وَإِذَا الْقُبُورُ بُعْثِرَتْ
+37.0 | 41.95 | عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ
+44.98 | 54.9 | يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
+55.34 | 60.94 | الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
+62.46 | 68.77 | فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ
+70.48 | 74.97 | كَلَّا بَلْ تُكَذِّبُونَن بِالدِّينِ
+76.64 | 81.97 | وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
+82.47 | 88.29 | كِرَامًا كَاتِبِينَ
+89.7 | 94.21 | يَعْلَمُونَ مَا تَفْعَلُونَ
+96.44 | 101.55 | إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+103.1 | 109.67 | وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
+111.55 | 114.67 | يَصْلَوْنَهَا يَوْمَ الدِّينِ
+115.55 | 119.91 | وَمَا هُمْ عَنْهَا بِغَائِبِينَ
+124.18 | 127.77 | وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+129.6 | 137.19 | ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+139.11 | 146.0 | يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
