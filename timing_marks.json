@@ -1,107 +1,97 @@
 [
   {
-    "start": 2.99,
-    "end": 15.24,
-    "duration": 12.25
+    "start": 4.32,
+    "end": 15.16,
+    "duration": 10.85
   },
   {
-    "start": 15.66,
-    "end": 21.72,
-    "duration": 6.06
+    "start": 16.16,
+    "end": 21.77,
+    "duration": 5.61
   },
   {
     "start": 22.74,
-    "end": 27.41,
-    "duration": 4.67
+    "end": 27.39,
+    "duration": 4.65
   },
   {
-    "start": 27.89,
-    "end": 31.85,
-    "duration": 3.96
+    "start": 28.39,
+    "end": 31.4,
+    "duration": 3.01
   },
   {
-    "start": 32.56,
-    "end": 36.2,
-    "duration": 3.64
+    "start": 33.05,
+    "end": 35.96,
+    "duration": 2.91
   },
   {
-    "start": 37.0,
-    "end": 41.95,
-    "duration": 4.96
+    "start": 36.95,
+    "end": 40.85,
+    "duration": 3.91
   },
   {
-    "start": 44.98,
-    "end": 54.9,
-    "duration": 9.92
+    "start": 44.51,
+    "end": 54.59,
+    "duration": 10.08
   },
   {
-    "start": 55.34,
-    "end": 60.94,
-    "duration": 5.6
+    "start": 55.03,
+    "end": 68.68,
+    "duration": 13.65
   },
   {
-    "start": 62.46,
-    "end": 68.77,
-    "duration": 6.31
+    "start": 69.89,
+    "end": 74.79,
+    "duration": 4.9
   },
   {
-    "start": 70.48,
-    "end": 74.97,
-    "duration": 4.49
+    "start": 76.71,
+    "end": 81.79,
+    "duration": 5.08
   },
   {
-    "start": 76.64,
-    "end": 81.97,
-    "duration": 5.33
+    "start": 82.97,
+    "end": 87.82,
+    "duration": 4.84
   },
   {
-    "start": 82.47,
-    "end": 88.29,
-    "duration": 5.82
+    "start": 88.72,
+    "end": 93.94,
+    "duration": 5.22
   },
   {
-    "start": 89.7,
-    "end": 94.21,
-    "duration": 4.51
+    "start": 95.86,
+    "end": 101.35,
+    "duration": 5.49
   },
   {
-    "start": 96.44,
-    "end": 101.55,
-    "duration": 5.11
+    "start": 102.82,
+    "end": 109.49,
+    "duration": 6.67
   },
   {
-    "start": 103.1,
-    "end": 109.67,
-    "duration": 6.57
+    "start": 111.51,
+    "end": 119.79,
+    "duration": 8.28
   },
   {
-    "start": 111.55,
-    "end": 114.67,
-    "duration": 3.12
+    "start": 121.08,
+    "end": 127.29,
+    "duration": 6.21
   },
   {
-    "start": 115.55,
-    "end": 119.91,
-    "duration": 4.37
+    "start": 128.52,
+    "end": 136.99,
+    "duration": 8.47
   },
   {
-    "start": 124.18,
-    "end": 127.77,
-    "duration": 3.6
+    "start": 137.68,
+    "end": 145.36,
+    "duration": 7.68
   },
   {
-    "start": 129.6,
-    "end": 137.19,
-    "duration": 7.58
-  },
-  {
-    "start": 139.11,
-    "end": 146.0,
-    "duration": 6.88
-  },
-  {
-    "start": 148.23,
-    "end": 150.98,
-    "duration": 2.75
+    "start": 146.38,
+    "end": 152.7,
+    "duration": 6.32
   }
 ]

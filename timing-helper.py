@@ -186,7 +186,6 @@ class SimpleTimingTool:
 def main():
 
 
-    
     if len(sys.argv) > 1:
         video_path = sys.argv[1]
     else:

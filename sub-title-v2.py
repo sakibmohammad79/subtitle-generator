@@ -2,7 +2,7 @@
 from moviepy import VideoFileClip, TextClip, CompositeVideoClip
 import os
 import sys
-
+from bidi.algorithm import get_display
 
 VIDEO_PATH = "Beautiful Recitation of Surah Infitar (سورة الانفطار_).mp4"
 TEXT_FILE = "subtitles.txt"  
@@ -103,16 +103,17 @@ def add_subtitles_to_video(video_path, subtitles, output_path):
     
     print(f"\n Creating {len(subtitles)} subtitle clips...")
     for idx, sub in enumerate(subtitles, 1):
+        bidi_text = get_display(sub['text'])
         try:
             txt_clip = TextClip(
-                text=sub['text'],
+                text=bidi_text,
                 font_size=FONT_SIZE,
                 color=FONT_COLOR,
                 font=FONT_PATH,
                 method='caption',
                 size=(int(video.w * SUBTITLE_WIDTH_RATIO), None),
                 stroke_color=STROKE_COLOR,
-                stroke_width=STROKE_WIDTH
+                stroke_width=STROKE_WIDTH,
             )
             
             # Position subtitle at bottom center
@@ -133,7 +134,7 @@ def add_subtitles_to_video(video_path, subtitles, output_path):
     final_video = CompositeVideoClip([video] + text_clips)
     
     print(f"Writing output video: {output_path}")
-    print("   This may take several minutes depending on video length...")
+    print(" This may take several minutes depending on video length...")
     
     final_video.write_videofile(
         output_path, 
@@ -170,7 +171,7 @@ def main():
         print("No valid subtitles found!")
         return
 
-    print(f"✅ Found {len(subtitles)} valid subtitles")
+    print(f" Found {len(subtitles)} valid subtitles")
     
     # Save SRT file
     print(f"\nSaving SRT file: {OUTPUT_SRT}")
